@@ -22,7 +22,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Md Danish YT channel (Like, Share, Subscribe, Comment)
+            Md Danish YT channel
           </a>
         </header>
       </div>

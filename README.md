@@ -40,4 +40,4 @@ The Amplify Console will fork this repo in your GitHub account, and then build a
   npm start
   ```
 
-Checkout Nader Dabit's [Complete Guide to User Authentication](https://dev.to/dabit3/the-complete-guide-to-user-authentication-with-the-amplify-framework-2inh).
+Checkout Nader Dabit's [Complete Guide to User Authentication](https://dev.to/dabit3/the-complete-guide-to-user-authentication-with-the-amplify-framework-2inh,https://github.com/dabit3/aws-amplify-workshop-react).

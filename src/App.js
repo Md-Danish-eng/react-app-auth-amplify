@@ -14,15 +14,16 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+//             Edit <code>src/App.js</code> and save to reload.
+            Hurray! You have successfully deploy React-auth-app using AWS Amplify.
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://md-danish-eng.github.io/Md-Danish-portfolio/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Md Danish Portfolio
           </a>
         </header>
       </div>

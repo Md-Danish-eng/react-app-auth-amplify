@@ -18,11 +18,11 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://md-danish-eng.github.io/Md-Danish-portfolio/"
+            href="https://youtube.com/@mddanishofficialdawahchannel"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Md Danish Portfolio
+            Md Danish YT channel (Like, Share, Subscribe, Comment)
           </a>
         </header>
       </div>
